@@ -1,0 +1,17 @@
+{
+    "name": "sample.hero",
+    "references": [
+        "GUID:37e6f28e1548aa84b98a1f0d8308bfb8",
+        "GUID:9be8f55419c1e3b438c5e3553f4cf272",
+        "GUID:7279d6e47546a194cb8ed876721ca5f7",
+        "GUID:34ac950b8255b2f4d909cec40e6a2b88"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": []
+}

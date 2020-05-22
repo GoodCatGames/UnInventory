@@ -1,0 +1,29 @@
+{
+  "name": "com.goodcat.un-inventory",
+  "author": "GoodCat",
+  "displayName": "UnInventory",
+  "description": "UnInventory - Inventory framework for Unity (inventories, hotbar, skill trees, etc)",
+  "unity": "2019.2",
+  "version": "1.0.0",
+  "keywords": [
+    "goodcat",
+    "inventory",
+    "hotbar"
+  ],
+  "samples": [
+    {
+      "displayName": "Hero",
+      "description": "Bag - hero inventory, Dummy - hero dummy, HotBar - panel for using items",
+      "path": "Samples~/Sample.Hero"     
+    },
+    {
+      "displayName": "Trade",
+      "description": "Several inventories for the implementation of trade",
+      "path": "Samples~/Sample.Trade"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GoodCatGames/UnInventory.git"
+}
+}

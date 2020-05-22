@@ -1,0 +1,17 @@
+{
+    "name": "goodcat.un-inventory.editor",
+    "references": [
+        "GUID:7279d6e47546a194cb8ed876721ca5f7",
+        "GUID:9be8f55419c1e3b438c5e3553f4cf272"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": []
+}
