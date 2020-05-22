@@ -379,8 +379,8 @@ Allows you to set a reaction in case of denial of action using `Hand` only becau
 
     ```csharp
     public class NoFilterValidReactBodyPart :
-      IFilterResponseReactConcrete<FilterDummyBodyPart, DataMoveToEmptySlotBefore>,
-      IFilterResponseReactConcrete<FilterDummyBodyPart, DataMoveSwapBefore>
+        IFilterResponseReactConcrete<FilterDummyBodyPart, MoveInputData>,
+        IFilterResponseReactConcrete<FilterDummyBodyPart, SwapPrimaryInputData>
     ```
 
 2. Then add their instances to the collection: `FilterResponseReactCollection`.
